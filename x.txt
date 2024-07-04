@@ -1,0 +1,1 @@
+expressApp.use(cors({ credentials: true, origin: "http://localhost:8080" }));
